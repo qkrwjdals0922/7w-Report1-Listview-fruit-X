@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/all_O"
+        android:title="전체 선택" />
+    <item
+        android:id="@+id/all_X"
+        android:title="선택 해제" />
+    <item
+        android:id="@+id/add"
+        android:title="데이터 입력" />
+    <item
+        android:id="@+id/exit"
+        android:title="종료" />
+</menu>
